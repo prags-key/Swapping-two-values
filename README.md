@@ -18,7 +18,6 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-![Screenshot (57)](https://github.com/user-attachments/assets/3e7d5e7d-19ec-4c18-b5a3-779910d752ad)
 
 
 
